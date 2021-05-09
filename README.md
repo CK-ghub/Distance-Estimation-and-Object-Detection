@@ -14,7 +14,7 @@ Distance Estimation and Object Detection using YOLOv4 DarkNet, OpenCV and Flask.
     YOLOv4 DarkNet Object Detector 
 
 ## Algorithms:
-	1. Intersection Over Union (IOU) - The calculation is done to measure the overlap between two 	propasals. The NMS uses this as a metric to predict bounding boxes to compute the ratio between the area of intersection and the area of union to predict the percentage or the measure of overlap of the bounding boxes, generally when the model detects the same object more than once. 
+	1. Intersection Over Union (IOU) - The calculation is done to measure the overlap between two propasals. The NMS uses this as a metric to predict bounding boxes to compute the ratio between the area of intersection and the area of union to predict the percentage or the measure of overlap of the bounding boxes, generally when the model detects the same object more than once. 
 	
 	2. Non-Maximum Suppression (NMS) - Takes a threshold value as a parameter to eliminate those boxes which have IOU greater than the threshold until no overlapping boxes are left starting with proposals with highest confidence or probability score.
 
