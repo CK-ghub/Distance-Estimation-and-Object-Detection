@@ -6,9 +6,9 @@ Distance Estimation and Object Detection using YOLOv4 DarkNet, OpenCV and Flask.
 	2. CV2 
 	3. SciPy 
 	4. flask
-	5. Pre-trained YOLOv4-tiny weights, configuration file 
-	6. coco.names dataset the YOLO object detection model is trained on
-	7. CCTV Footages
+	5. Pre-trained YOLOv4-tiny weights, configuration file - download the weights from the link given in the resources section below
+	7. coco.names dataset the YOLO object detection model is trained on
+	8. CCTV Footages
     
 ## Model Used:
     YOLOv4 DarkNet Object Detector 
@@ -20,6 +20,6 @@ Distance Estimation and Object Detection using YOLOv4 DarkNet, OpenCV and Flask.
 
 ## Resources:
 	1. CCTV footages
-	2. Pretrained YOLOv4-tiny weights - 	https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4-tiny.weights
+	2. Pretrained YOLOv4-tiny weights - https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4-tiny.weights
 	3. YOLOv4-tiny Config file - https://github.com/kiyoshiiriemon/yolov4_darknet
 	4. YOLO openCV documentation - https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
